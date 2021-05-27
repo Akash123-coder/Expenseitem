@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/filter-the-expensesi.git/static/css/main.a34d38ed.chunk.css",
+    "main.js": "/filter-the-expensesi.git/static/js/main.d6effa2f.chunk.js",
+    "main.js.map": "/filter-the-expensesi.git/static/js/main.d6effa2f.chunk.js.map",
+    "runtime-main.js": "/filter-the-expensesi.git/static/js/runtime-main.099ce02c.js",
+    "runtime-main.js.map": "/filter-the-expensesi.git/static/js/runtime-main.099ce02c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/filter-the-expensesi.git/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.656d759a.chunk.js": "/filter-the-expensesi.git/static/js/2.656d759a.chunk.js",
+    "static/js/2.656d759a.chunk.js.map": "/filter-the-expensesi.git/static/js/2.656d759a.chunk.js.map",
+    "index.html": "/filter-the-expensesi.git/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/filter-the-expensesi.git/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a34d38ed.chunk.css.map": "/filter-the-expensesi.git/static/css/main.a34d38ed.chunk.css.map",
+    "static/js/2.656d759a.chunk.js.LICENSE.txt": "/filter-the-expensesi.git/static/js/2.656d759a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.099ce02c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.656d759a.chunk.js",
+    "static/css/main.a34d38ed.chunk.css",
+    "static/js/main.d6effa2f.chunk.js"
+  ]
+}
